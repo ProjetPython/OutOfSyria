@@ -15,3 +15,68 @@ Prendre le taxi pour quitter la Syrie:
             Si il arrive à se justifier, les militaires seront coopératif et diront à Amir et sa famille de se débrouiller pour partir
             et laisser tout l'argent qu'il a
             Sinon si il n'arrive pas à se justifier, il part en prison avec le chauffeur de taxi et fin de la partie
+
+            Une fois qu'il a réussi de passer le barrage sans son argent, il se demande comment il va faire pour en trouver
+            1) Il reste encore 1 ans en Syrie pour gagner suffisement d'argent pour quitter le pays
+            2) Il decide quand même de quitter le pays sans argent en fraudant
+
+            Si choix n°1:
+                Il retourne dans sa maison avec sa famille et cherche du travail
+            Si choix n°2:
+                Il reprend sa route vers Beyruoth pour prendre le bateau
+
+                Amir se pose la question de savoir si il prende le bus ou un autre taxi:
+                Sa famille lui repond qu'il doit vite trouver une solution car ils n'ont plus d'argent et ils on faim
+                Amir decide de trouver un supermaché ouvert, pour pouvoir se trouver à manger:
+                1) Il decide de voler de la nourriture en toute discrétion
+                    Dans ce cas:
+                        Soit il se fait prendre et il part en prison, fin de la partie
+                        Soit il réussi son coup et il nourrit sa famille
+                2) Il decide de demander au gens de lui donner de l'argent pour qu'il puisse nourrir sa famille:
+                    Dans ce cas:
+                        Soit les gens lui donner, il peut donc aller acheter de la nourriture pour nourrir sa famille
+                        Soit les gens l'ignorent et il revient à un autre choix
+
+                3) Il decide de demander au gens de la nourriture pour nourrir sa famille:
+                    Dans ce cas:
+                        Soit les gens lui passent de la nourriture
+                        Soit les gens l'ignorent et il revient à un autre choix
+
+                    Si ne réussi pas à nourrir sa famille, il sera contraint de retourner chez lui pour prendre de la nourriture
+                    Si il réussi, il continu sa route pour Beyrouth
+
+                    Il en revient au choix de prendre le bus ou reprendre un taxi:
+                        1) Il prend le bus
+                        2) Il prend le taxi
+
+                        Si il prend le bus:
+                            1) Il doit payer pour partir:
+                            Dans ce cas:
+                                1) Il coopère avec le chauffeur pour partir gratuitement
+                                    Soit le chauffeur accepte
+                                    Soit le chauffeur refuse:
+                                        Dans ce cas:
+                                            1) Il decide de rentrer chez lui
+                                            2) Il decide de frauder:
+                                            Dans ce cas:
+                                                Il se fait prendre et va en prison, fin de la partie
+                                                Il ne se fait pas prendre et continue
+
+                                2) Il renonce à prendre le bus et retourne chez lui pour aller travailler
+
+                        Si Il prend le taxi, il demande au chauffeur de taxi si il n'est pas rechercher par la police:
+                            Dans ce cas:
+                                Si li l'est:
+                                    1) Il continue sa route en évitant les barrages militaires
+                                    2) Il renonce à prendre le taxi
+                                Si il ne l'est pas:
+                                Le taxi est payant, il decide alors de:
+                                    1) Coopérer avec le chauffeur
+                                    2) Frauder:
+                                    Dans ce cas:
+                                        Il se fait prendre et va en prison, fin de la partie
+                                        Il ne se fait pas prendre et continue
+                                    3) Renoncer
+
+                                    
+
