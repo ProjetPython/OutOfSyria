@@ -1,0 +1,17 @@
+Prendre le taxi pour quitter la Syrie:
+    Si il tombe sur un barrage militaire, ils vont lui poser des questions
+    Il devra montrer ses papiers et la, un problème se pose:
+        Le chauffeur de taxi est recherché par la police de la Syrie et souhaite fuir le pays:
+        1) Les militaires demandent au chauffeur de taxi de se rendre a la police et Amir et sa famille passent
+        2) Le chauffeur de taxi ne se rend pas et la famille de Amir ne passe pas le barrage
+
+        Si choix n°1:
+            Amir devra laisser la moitié de ses biens pour faute d'avoir pris le taxi avec le chauffeur
+            Amir et sa famille auront passer le barrage militaire
+
+        Si le choix n°2:
+            Les militaires considèreront que Amir et sa famille sont complices avec le chaufeur de taxi et demenderont des explications
+            Amir se justifiera auprès des militaires : (On va faire truc au hazard)
+            Si il arrive à se justifier, les militaires seront coopératif et diront à Amir et sa famille de se débrouiller pour partir
+            et laisser tout l'argent qu'il a
+            Sinon si il n'arrive pas à se justifier, il part en prison avec le chauffeur de taxi et fin de la partie
